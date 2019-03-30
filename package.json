@@ -1,0 +1,21 @@
+{
+    "name": "webpack-study-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "css-loader": "^1.0.1",
+      "html-webpack-plugin": "^3.2.0",
+      "vue-loader": "^15.4.2",
+      "vue-template-compiler": "^2.5.17",
+      "webpack": "^4.25.1",
+      "webpack-cli": "^3.1.2"
+    },
+    "dependencies": {
+      "vue": "^2.5.17"
+    }
+  }
