@@ -1,1 +1,9 @@
-document.write("<h1>Hello World</h1>");
+import Vue from "vue";
+import App from "./index.vue";
+
+/* eslint-disable no-new */
+new Vue({
+    el: "#app",
+    template: "<App/>",
+    components: { App }
+});
